@@ -10,6 +10,6 @@
 <hr>
 
 <p align="center">
-    <a><img align="left" src="https://github-readme-stats.vercel.app/api?username=ZhongXiLu&count_private=true&show_icons=true&theme=vue"/></a>
-    <a><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZhongXiLu&theme=vue&layout=compact"/></a>
+    <a><img align="center" src="https://github-readme-stats.vercel.app/api?username=ZhongXiLu&count_private=true&show_icons=true&theme=vue"/></a>
+    <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZhongXiLu&theme=vue&layout=compact"/></a>
 </p>
